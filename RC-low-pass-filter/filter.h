@@ -1,6 +1,7 @@
 #ifndef _FILTER_H
 #define _FILTER_H  // Include guards
 
+#define TWO_PI 6.283185f 
 
 // RC Low-pass Filter structure
 typedef struct {
